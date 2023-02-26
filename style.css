@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+margin: 0;
+border: none;
+background-color: blue;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+header{
+    display: flex;
+    position: fixed;
+    background-color: plum;
+}
+
+.image{
+    width: 460px;
+}
+
+.link{
+    padding: 40px;
+    padding-left: 450px;
+    padding-right: 5px;
+    /* flex-wrap: wrap; */
+  
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+    
+}
+/* 
+.span a{
+    co
+} */
+
+.home{
+    background-color: orangered;
+    /* padding-left: 20px; */
+    margin-right: none;
+}
+.about{
+    background-color: orangered;
+}
+
+.aside{
+    padding-top: 300px; 
+}
+
